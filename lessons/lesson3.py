@@ -19,7 +19,7 @@
 # TODO: Make your own program that has at least one input(), one if statement
 
 
-# Lesson 3: Modulus, More Strings
+# Lesson 3: Modulus operator, More Strings
 
 # The modulus operator
 """
@@ -49,6 +49,7 @@ Examples:
 # TODO: Write a program that asks for a number, and checks if the number is divisible by 5
 
 # TODO: Write a program that asks for a number, and checks if the number is an even or odd number.
+
 
 
 # More with strings
@@ -94,10 +95,12 @@ To get the character at a specific index, you write the variable name, then put 
 you put the index number.
 
 Exercise:
-If there is a string name s = 'Isaiah'
+If there is a string name s = 'Isaiah is cool.'
 
 What is s[3]?
 What is s[0]?
+What is s[6]?
+What is s[7]?
 
 Example:
 """
@@ -116,5 +119,8 @@ Length of string
 To get the length of a string, you can use the len() function.
 The len() function returns how many characters are in the string as an integer.
 """
+
 # s = 'Hello'
 # print(len(s)) # Will print out 5, because there are 5 characters in the string 'Hello'.
+
+# TODO: Write a program that asks for a word and prints out how many letters the word has.
