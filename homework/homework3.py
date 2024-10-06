@@ -17,3 +17,12 @@ Step by step instructions:
 
 # Write code under this line:
 
+num1 = int(input('GIVE ME A NUMBER NOW!!! '))
+num2 = int(input('GIVE ME ANOTHER NUMBER!!!!!!!!!!! .'))
+operation = str(input('Choose an operation (+, -, *, /, %)'))
+
+if operation == '+':
+    print(num1 + num2)
+elif operation == '-':
+    print(num1 - num2)
+elif
