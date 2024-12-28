@@ -1,4 +1,4 @@
-# Review
+393.# Review
 
 # TODO: Write a program that asks for a number and checks if that number is even or odd
 # a = int(input('GIVE ME A NUMBER NOW!!!! '))
@@ -62,6 +62,7 @@ len is short for length.
 # This will print out 6, because there is 6 characters in the string.
 
 # TODO: Write a program that asks for a string and prints out the length of it
+
 
 # TODO: Write a program that asks for a password.
 # - If the password is over 10 characters long, print out that it is a strong password
